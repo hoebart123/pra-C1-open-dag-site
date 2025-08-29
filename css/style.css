@@ -1,0 +1,47 @@
+*{
+        font-family: Fellix, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.foto{
+    width: 300px;
+    height: auto;
+}
+.headbar{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+.titel{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-size: 40px;
+    color: blue;
+}
+main{
+    background-color: rgb(151, 217, 231);
+    height: 500px;
+    padding-top: 75px; 
+}
+.rij-1-info{
+    display: flex;
+    justify-content:space-around;
+    align-items: end;
+    font-size: 20px;
+}
+.rij-1-titels{
+    display: flex;
+    justify-content:space-around;
+    align-items: end;
+    font-size: 20px;
+}
+
+.top-rij-info{
+    width: 250px;
+        display: flex;
+    justify-content:space-around;
+    align-items: end;
+}
+.vakken{
+        padding: 20px;
+        margin-left: -5px;
+        padding-top: -600px;
+}
